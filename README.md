@@ -1,4 +1,4 @@
-[![logo-dark-1.png](https://i.postimg.cc/7LrWSm0Z/logo-dark-1.png)](https://postimg.cc/K1Qf2706)
+[![logo-dark-1.png](https://i.postimg.cc/zDsDpMFK/logoE.png)](https://postimg.cc/Cd4Vxctx)
 
 <div>
   <h1>hadqueddani is here!</h1>
