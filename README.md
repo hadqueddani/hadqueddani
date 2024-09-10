@@ -8,9 +8,6 @@
   <b>Your gateway to awesome projects and innovative solutions.</b>
   <br>
   <br>
-  <a href="https://github.com/hadqueddani/repo"><strong>Explore the projects »</strong></a>
-  <br>
-  <br>
   <img src="https://img.shields.io/github/followers/hadqueddani?style=social"> 
   <img src="https://img.shields.io/github/stars/hadqueddani/repo?style=social">
 </p>
@@ -26,8 +23,6 @@ Welcome to **hadqueddani**'s world! Here, you'll find:
 - 🎮 Interactive games
 - 🛠️ Useful tools for developers
 
-Stay tuned for updates and don't forget to **star** ⭐ the repo if you find something useful!
-
 ---
 
 ## 📂 Projects
@@ -41,12 +36,6 @@ Stay tuned for updates and don't forget to **star** ⭐ the repo if you find som
 - **Languages:** C#, Python, PHP, JavaScript
 - **Frameworks:** Unity, Slim Framework, Tkinter
 - **Tools:** Git, Visual Studio, Unity Editor
-
----
-
-## 🤝 Contribute
-
-We welcome contributions! Feel free to fork the repository, create a pull request, or open an issue to report bugs or suggest new features.
 
 ---
 
