@@ -35,7 +35,7 @@ Welcome to **hadqueddani**'s world! Here, you'll find:
 ## 🛠️ Technologies
 
 - **Languages:** C#, Python, PHP, JavaScript
-- **Frameworks:** Unity, Slim Framework, Tkinter
+- **Frameworks:** Unity
 - **Tools:** Git, Visual Studio, Unity Editor
 
 ---
