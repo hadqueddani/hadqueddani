@@ -11,8 +11,8 @@
   <a href="https://github.com/yourusername/repo"><strong>Explore the projects »</strong></a>
   <br>
   <br>
-  <img src="https://img.shields.io/github/followers/yourusername?style=social"> 
-  <img src="https://img.shields.io/github/stars/yourusername/repo?style=social">
+  <img src="https://img.shields.io/github/followers/hadqueddani?style=social"> 
+  <img src="https://img.shields.io/github/stars/hadqueddani/repo?style=social">
 </p>
 
 ---
