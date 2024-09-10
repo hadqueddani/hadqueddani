@@ -14,17 +14,6 @@
 
 ---
 
-## 🌟 About hadqueddani
-
-Welcome to **hadqueddani**'s world! Here, you'll find:
-
-- 🚀 Innovative projects
-- 💡 Creative ideas
-- 🎮 Interactive games
-- 🛠️ Useful tools for developers
-
----
-
 ## 📂 Projects
 
 1. **Yet Another Ritmo Mania:** 🎵 A rhythm game experience like no other.
