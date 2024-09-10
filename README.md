@@ -28,6 +28,7 @@ Welcome to **hadqueddani**'s world! Here, you'll find:
 ## 📂 Projects
 
 1. **Yet Another Ritmo Mania:** 🎵 A rhythm game experience like no other.
+2. **1 Sol Peruano 3D** 🪙 The game of a Peruvian coin.
 
 ---
 
