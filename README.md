@@ -8,7 +8,7 @@
   <b>Your gateway to awesome projects and innovative solutions.</b>
   <br>
   <br>
-  <a href="https://github.com/yourusername/repo"><strong>Explore the projects »</strong></a>
+  <a href="https://github.com/hadqueddani/repo"><strong>Explore the projects »</strong></a>
   <br>
   <br>
   <img src="https://img.shields.io/github/followers/hadqueddani?style=social"> 
