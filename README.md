@@ -5,7 +5,7 @@
 <h1 align="center">hadqueddani is here!</h1>
 
 <p align="center">
-  <b>Your gateway to awesome projects and innovative solutions.</b>
+  <b>All for fun and boredom.</b>
   <br>
   <br>
   <img src="https://img.shields.io/github/followers/hadqueddani?style=social"> 
