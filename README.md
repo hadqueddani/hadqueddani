@@ -16,7 +16,7 @@
 
 ## 📂 Projects
 
-1. **Yet Another Ritmo Mania:** 🎵 A rhythm game experience like no other.
+1. <a href="https://hadqueddani.itch.io/yet-another-ritmo-mania">**Yet Another Ritmo Mania:**</a> 🎵 A rhythm game experience like no other.
 2. **1 Sol Peruano 3D** 🪙 The game of a Peruvian coin.
 
 ---
