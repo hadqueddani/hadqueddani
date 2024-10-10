@@ -17,7 +17,8 @@
 ## 📂 Projects
 
 1. <a href="https://hadqueddani.itch.io/yet-another-ritmo-mania">**Yet Another Ritmo Mania:**</a> 🎵 A rhythm game experience like no other.
-2. **1 Sol Peruano 3D** 🪙 The game of a Peruvian coin.
+2. <a href="https://play.google.com/store/apps/details?id=com.hadqueddani.Moneda_1_Sol">**1 Sol Peruano 3D:**</a> 🪙 The game of a Peruvian coin.
+3. <a href="https://play.google.com/store/apps/details?id=com.HadQuedDani.Ceviche">**CEVICHE El Juego:**</a> 🍴 Peruvian food inside a game, what?
 
 ---
 
