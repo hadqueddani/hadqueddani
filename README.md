@@ -1,11 +1,3 @@
-<p align="center">
-  <b>All for fun and boredom.</b>
-  <br>
-  <br>
-  <img src="https://img.shields.io/github/followers/hadqueddani?style=social"> 
-  <img src="https://img.shields.io/github/stars/hadqueddani/repo?style=social">
-</p>
-
 ---
 
 ## 📂 Projects
