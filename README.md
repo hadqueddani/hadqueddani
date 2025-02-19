@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://i.postimg.cc/zDsDpMFK/logoE.png" alt="Logo" width="200">
-</p>
-
-<h1 align="center">hadqueddani is here!</h1>
-
-<p align="center">
   <b>All for fun and boredom.</b>
   <br>
   <br>
